@@ -37,6 +37,18 @@
                 "username": "aKssup",
                 "url": "https://github.com/aKssup",
                 "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Resume",
+                "username": "Drive File",
+                "url": "https://docs.google.com/document/d/1VVnytw2n5tVKw8PNJqhq-DV8Gtf-HCzrp2oqhSDoFZE/edit?usp=sharing",
+                "x_icon": "fab fa-file" 
+            },
+            {
+                "network": "Instagram",
+                "username": "@akarshsrivastava_",
+                "url": "https://www.instagram.com/akarshsrivastava_/",
+                "x_icon": "fab fa-instagram"
             }
         ]
     },
