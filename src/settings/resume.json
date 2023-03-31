@@ -22,27 +22,21 @@
         "profiles": [
             {
                 "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
+                "username": "akarsh@umd.edu",
+                "url": "mailto:akarsh@umd.edu",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
                 "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "url": "https://www.linkedin.com/in/akarsh-srivastava-/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
                 "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "url": "https://github.com/aKssup",
                 "x_icon": "fab fa-github"
-            },
-            {
-                "network": "GitLab",
-                "username": "joli",
-                "url": "https://gitlab.informatik.uni-bremen.de/joli",
-                "x_icon": "fab fa-gitlab"
             }
         ]
     },
