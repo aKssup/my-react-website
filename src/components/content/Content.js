@@ -24,8 +24,8 @@ export const Content = () => {
                 <TextDecrypt text={`${Resume.basics.x_title} ${FirstName}`} />
             </Typography>
             <Typography variant="h5" component="h2" gutterBottom>
-                <TextDecrypt text={`a ${Resume.basics.job}`} />
-                <TextDecrypt text={`from ${Resume.basics.location.country}`} />
+                <TextDecrypt text={`a computer science student`} />
+                <TextDecrypt text={`at the University of Maryland College Park`} />
             </Typography>
         </Container>
     );
