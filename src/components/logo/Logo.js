@@ -15,10 +15,13 @@ export const Logo = () => {
     const classes = useStyles();
 
     return (
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" className={classes.svgHover}>
-            <path d="M300,50 L200,200 L100,50 L50,50 L150,250 L250,250 L350,50 Z" />
-            <path d="M225,175 a75,75 0 1,0 0,50 a75,75 0 1,0 0,-50" />
+        <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 400 400"
+            className={classes.svgHover}
+        >
+            <path d="M250,100 L150,300 L50,100 L125,100 L150,175 L175,100 Z M250,150 A50,50 0 1 0 250,50 A50,50 0 0 0 250,150 Z" />
+            
         </svg>
-
     );
 };
