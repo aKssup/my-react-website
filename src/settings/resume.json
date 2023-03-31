@@ -1,6 +1,6 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
+        "name": "Akarsh Srivastava",
         "label": "Computer Science student",
         "email": "hey@jolienhoop.com",
         "phone": "(XXX) XXX-XXXX",
@@ -14,8 +14,8 @@
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
+            "city": "",
+            "country": "",
             "countryCode": "DEU",
             "region": "Bremen"
         },
