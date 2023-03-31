@@ -2,7 +2,7 @@ import Resume from "../settings/resume.json";
 
 const names = Resume.basics.name.split(" ");
 
-export const FirstName = "Akarsh";
+export const FirstName = "Akarsh Srivastava";
 
 export const LastName = names[names.length - 1];
 
